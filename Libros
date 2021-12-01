@@ -1,0 +1,203 @@
+id,titulo,autor,precio,idEditorial
+1,My Dear Enemy,Waldon Phelps,100.69,2
+2,Original Gangstas,Reggie Avramovsky,290.99,1
+3,Opportunity Knocks,Hirsch Greally,397.62,5
+4,Annie Get Your Gun,Town Lavall,444.82,3
+5,Strange Days,Caterina Ortzen,170.25,4
+6,Let the Fire Burn,Cassi Burgise,281.37,1
+7,Oliver Twist,Delbert Hollingshead,361.57,1
+8,Little Ashes,Bartram Crinson,440.82,3
+9,Black Heaven,Orran Jewsbury,154.85,6
+10,Player,Ezechiel Verralls,403.71,1
+11,52 Pick Up,Shaylyn Titchard,311.07,5
+12,Haute Cuisine,Alfons Zavattero,254.9,4
+13,City of Lost Children,Olivie Muncey,168.53,4
+14,Kolmistaan,Aloisia MacKnockiter,175.45,3
+15,Morocco,Dorine Sever,242.03,1
+16,Gorgeous Hussy,Elvis Kruse,222.53,2
+17,Let the Bullets Fly,Raychel Byatt,313.4,5
+18,Red Rocks,Alaster Giffen,162.13,2
+19,Mad Monster Party,Myron Eary,256.43,4
+20,Sweet Sixteen,Lolita Draijer,365.33,1
+21,Far Side of the Moon,Consuela Gabriely,139.73,6
+22,Otis,Evin Londesborough,155.77,1
+23,Proof,Sharleen Tatham,138.13,2
+24,Big Clock,Jone Szwarc,183.75,4
+25,Cat Returns,Kylen Mazin,156.65,5
+26,New York Minute,Lorelle Allred,189.2,1
+27,HoldingBanky McAviy,JJ Abraham,239.81,6
+28,Getting to Know You,Corey Adiscot,272.0,6
+29,McLintock,Elie Trewhela,127.61,1
+30,Zatoichi on the Road,Artemis Rosenbarg,260.55,2
+31,Going Postal,Neall Estrella,388.39,4
+32,Campaign,Vevay Morgans,334.81,6
+33,Great Escape The Untold Story,Filmore Challenor,161.78,1
+34,Coward,Moria Casburn,264.68,3
+35,Levottomat 3,Arline Moulder,321.83,5
+36,Look Back in Anger,Drew Cave,497.89,6
+37,Dead Husbands,Artus Jiracek,544.08,1
+38,Tesseract,Skipton Grieves,651.45,5
+39,Weird Woman,Calv Gyver,163.18,1
+40,Macbeth in Manhattan,Fiona Dauber,299.98,3
+41,You and Me,Roch McGloughlin,354.41,6
+42,Slim Susie,Cecilla Barneveld,128.46,4
+43,Guilty,Ruggiero Trudgeon,280.91,5
+44,Kager,Birgitta Rosenstengel,330.82,6
+45,Battle of Britain,Alyda Murphy,149.75,1
+46,King of the Wild Frontier,Brett Hammonds,264.32,4
+47,Little Fish,Sella Nevins,103.09,3
+48,Deficit,Laney Jersch,221.06,6
+49,I Confess,Markus Collyear,134.71,1
+50,Horrorvision,Pat Gunthorpe,277.35,4
+51,Evilenko,Kearney Strain,308.03,3
+52,Future Cops,Morlee Corneljes,295.55,2
+53,It's Not Me It's You,Annabel Deevey,183.39,2
+54,That Day on the Beach,Fabe Bodd,210.22,4
+55,Outlaw,Nickolaus Cotherill,378.05,6
+56,Submarino,Matias Fealey,197.26,6
+57,Big House,Lindon Carwithan,282.11,3
+58,Peppermint Candy,Rafe Kleiser,331.61,2
+59,She Wouldn't Say Yes,Benedick Deniscke,131.32,1
+60,North Shore,Katrinka Kiraly,286.32,5
+61,Blood of Heroes,Dill Jimes,361.53,5
+62,Munchies,Toma Heam,122.41,2
+63,Science,Vanda MacElharge,203.82,1
+64,Enemy,Sofia Goreway,329.05,3
+65,Queen Margot,Stacy Timpany,137.62,5
+66,Heroes for Sale,Rose Nevett,270.45,1
+67,Torpedo Run,Gunar Cisson,205.3,3
+68,Django 2 Django Strikes Again,Ryon Keymer,356.95,1
+69,Jigureul jikyeora,Rennie Szubert,116.1,4
+70,Hatari!,Darrel Thirsk,281.49,1
+71,Murder on the Orient Express,Delainey Brideaux,218.55,2
+72,Terror is a Man,Sterne Towse,170.47,4
+73,Hitting Home,Auria Castanho,797.0,3
+74,Kisses,Barnie Owers,157.16,5
+75,Shadow Hunters: City of Bones,Cassandra Clare,685.13,2
+76,Bopha,Gratia Babb,947.08,4
+77,Downhill,Daron Fowley,270.93,6
+78,Mail Early for Xmas,Lina Salzberg,830.35,1
+79,Canyon Passage,Isacco Franek,652.07,3
+80,Peyton Place,Trumaine Pinckard,150.23,2
+81,Lagaan Once Upon a Time,Karilynn Sutty,503.02,6
+82,Last Cowboy Standing,Shawn Rosso,149.44,4
+83,Hunter from the Future,Talbert Ingleby,130.53,6
+84,Never Forever,Fanya Olley,938.28,1
+85,Somewhere Between,Isabelle Saltwell,428.35,5
+86,Decision at Sundown,Lois Poschel,648.29,2
+87,Lost Embrace,Granger Folbigg,667.45,3
+88,Carman The Champion,Raye Whitelock,238.33,4
+89,English Surgeon,Bryana Lokier,700.2,1
+90,Needle,Sidonnie Thaim,123.91,3
+91,Norte the End of History,Jonis Moyce,454.03,6
+92,Descendant of the Sun,Madelyn Mavin,201.4,1
+93,Three Men and a Little Lady,Giulietta Clemendet,189.37,3
+94,Wait Until Dark,Jacquelin Pittoli,434.18,5
+95,This Filthy World,Vladimir Trulock,726.59,5
+96,My Louisiana Sky,Queenie Morecomb,371.15,1
+97,Pink Saris,Gina Cocher,645.07,6
+98,Hiroshima ,Lacy Gibb,135.87,3
+99,Zatoichi,Dev Oubridge,812.13,2
+100,Pink Ribbons,Goldia Burds,506.23,4
+101,Magic Flute,Dael Fallens,276.35,5
+102,Yesterday Today and Tomorrow,Shelia Planque,860.92,1
+103,Money Matters ,Corella Betz,802.36,2
+104,The Little Death,Odelinda Naldrett,339.55,3
+105,Nine,Gerardo Borrowman,361.24,6
+106,Act of Violence,Stephanie Ailmer,263.48,4
+107,A Justified Life,Manuel Ferrers,219.34,5
+108,Friday,Nerti Byham,605.87,1
+109,Safe Heaven,Felice Macallam,707.21,2
+110,Eat Sleep Die,Adoree Middlemass,456.25,3
+111,Kenny,Jordon Staddom,166.88,4
+112,Common,Richard Berrey,113.75,6
+113,Escanaba in da Moonlight,Fiona Clery,198.82,1
+114,Destiny Turns on the Radio,Garrard Jolly,165.15,3
+115,Monkey Business,Chloette Fishby,127.9,5
+116,Princess Diaries 2,Bentlee Mynett,166.44,6
+117,Carmen Miranda,Mabel Oels,152.9,4
+118,Deadly Outlaw,Lari Sealeaf,101.38,2
+119,Naked Violence,Sigfrid Haisell,178.35,2
+120,Jesse Stone: Doubt,Lolita Boak,139.71,1
+121,Asylum,Davis Croom,132.84,3
+122,Harvest,Lev Vedmore,120.03,4
+123,Never Too Young to Die,Patrice Dorwood,171.56,6
+124,Immediate Family,Karla Aspinal,184.47,6
+125,Hotel,Drucie Trouncer,190.35,4
+126,Away with Words,Alfie Gopsell,156.57,1
+127,Up,Edlin McKeever,13591.9,1
+128,Quigley Down Under,Nicolette Schneidau,186.97,3
+129,Zinn,Druci Horlick,167.36,6
+130,Gumshoe,Hort Setch,157.0,6
+131,Musicwood,Valene Sumner,195.18,1
+132,Simone,Zollie Benech,284.35,1
+133,Chaos Theory,Lara Edington,190.65,4
+134,Where Sleeping Dogs Lie,Basile Biever,195.28,5
+135,Day the Earth Stood Still,Anstice Dudding,158.26,3
+136,Hot Zone,Doria Poulgreen,232.17,1
+137,Airbag,Janeta France,266.35,3
+138,Breaking the Rules,Kermit Ciccetti,269.51,4
+139,Home of Dark Butterflies,De witt Diglin,278.09,2
+140,Repentance,Jacquelynn McDonogh,289.8,4
+141,Thieves by Law,Beverlie Coleyshaw,226.86,2
+142,Rosa Luxemburg,Burnaby Breese,253.0,6
+143,Latitudes,Shermie Ren,226.44,1
+144,From Above,Caroline Ianiello,265.03,3
+145,Red Flag,Gustav Swindell,346.07,6
+146,Kiss the Bride,Joelie Kinker,382.21,1
+147,Return to Paradise,Joelynn McEnhill,381.21,3
+148,Gen 13,Brose Matcham,345.39,1
+149,Santa Claus,Danika Sex,331.25,6
+150,Zombie Holocaust,Marlyn Grouer,390.14,4
+151,Voyager,Nanon Caffery,362.06,1
+152,Christmas Carol,Skippy Stribbling,328.37,2
+153,Hollywood Party,Yurik Laugharne,352.86,3
+154,Defying Gravity,Fedora Berfoot,356.69,5
+155,Haunted,Morgan Brandel,374.36,5
+156,Entertaining Angel,Gerrie Spilsburie,374.61,1
+157,Meshes of the Afternoon,Jocelin Abramovic,382.08,3
+158,Anthropophagus,Elita Roth,199.41,6
+159,Taxi to the Dark Side,Aretha Fairlaw,199.83,2
+160,Big Bad Swim,Gonzales Ponting,157.38,1
+161,Monster in Pari,Brenn Damper,182.98,5
+162,Big Picture,Mignon Bater,182.81,1
+163,Juvenile Court,Chris Kilbee,137.69,3
+164,Dance with a Stranger,Jessa Bankes,167.41,5
+165,Boxcar Bertha,Sabrina Hynes,163.05,6
+166,An Innocent Man,Rayna Pilgrim,224.56,1
+167,Love etc,Ronny Le Prevost,227.95,3
+168,The 21 Carat Snatch,Emmey Groome,260.5,4
+169,Monsters,Leda Lawtey,267.89,6
+170,Karate Kid,Jacky Bourdice,204.31,1
+171,Breif History of Time,Stephen Hawking,250.92,6
+172,Gladiators,Ives Hriinchenko,335.92,2
+173,Snarveien,Tamqrah Weatherby,331.51,5
+174,A Gun for Jennifer,Easter Barth,461.38,1
+175,Daisy,Alecia Capun,446.31,3
+176,Reel Injun,Merrill Ruperto,220.03,6
+177,Pink Ribbons,Jo-anne Gonsalo,328.14,3
+178,Malone,Vanya Suttling,102.63,4
+179,The Possession of Michael King,Salim Ullett,113.05,1
+180,Heaven,Dilan Lougheid,197.92,5
+181,Private War of Major Benson,Quintin Carlan,120.72,2
+182,Matrimonial Comedy,Ursa Coggell,197.67,5
+183,Three Brothers,Nissy Stone Fewings,191.09,3
+184,Keith,Forester Hedde,150.69,1
+185,Superweib,Fina Blakes,142.73,4
+186,Neon Flesh,Ryan Eversley,166.86,2
+187,Swan,Janel Tschersich,170.03,6
+188,Sommersby,Ram Shelford,108.73,5
+189,The Five Man Army,Ermengarde Beagles,109.5,3
+190,Closet Land,Gradey Neil,129.34,1
+191,9 Month Stretch,Lyssa Kettleson,191.54,4
+192,And Life Goes On,Kipper Mesnard,106.66,1
+193,The Lords of Salem,Crissie Smillie,198.08,6
+194,Cargo,Almeta Adrain,182.56,4
+195,King of Texas,Nowell Swendell,178.09,2
+196,Sabrina,Matteo Siddaley,110.57,5
+197,Alice in Murderland,Alexandr Ogers,139.81,1
+198,The Ring Finger,Marinna Andrysiak,163.83,2
+199,This Boy's Life,Katuscha Normavill,188.93,1
+200,After You,Evangeline O'Crigane,179.59,1
+201,Sittin' on a Backyard Fence,Denice Murrhaupt,125.58,2
+202,Crime And Punishment,Fiódor Dostoyevski,159.98,4
